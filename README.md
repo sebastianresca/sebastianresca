@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sebastianresca
-- 👀 I’m interested in  la programacion .
+- 👀 I’m interested in  progrmation.
 - 🌱 I’m currently learning  html y Css
-- 💞️ I’m looking to collaborate on  lo que pueda.
+- 💞️ I’m looking to collaborate on  everything i can.
 - 📫 How to reach me  sebastianresca@gmail.com 
 
 <!---
